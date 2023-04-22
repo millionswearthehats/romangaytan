@@ -1,0 +1,85 @@
+/* CSS code for the FBI-style webpage */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #1b3c72;
+    padding: 10px;
+}
+
+.header h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 36px;
+}
+
+.header p {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+.content {
+    margin-top: 40px;
+}
+
+.content h2 {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.content ul {
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.content li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.alert {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alert p {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #1b3c72;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.footer p {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
